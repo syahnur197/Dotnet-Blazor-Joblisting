@@ -1,0 +1,12 @@
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\bin\Debug\net5.0\BruListing.Core.deps.json
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\bin\Debug\net5.0\BruListing.Core.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\bin\Debug\net5.0\ref\BruListing.Core.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\bin\Debug\net5.0\BruListing.Core.pdb
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\obj\Debug\net5.0\BruListing.Core.csproj.AssemblyReference.cache
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\obj\Debug\net5.0\BruListing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\obj\Debug\net5.0\BruListing.Core.AssemblyInfoInputs.cache
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\obj\Debug\net5.0\BruListing.Core.AssemblyInfo.cs
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\obj\Debug\net5.0\BruListing.Core.csproj.CoreCompileInputs.cache
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\obj\Debug\net5.0\BruListing.Core.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\obj\Debug\net5.0\ref\BruListing.Core.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Core\obj\Debug\net5.0\BruListing.Core.pdb

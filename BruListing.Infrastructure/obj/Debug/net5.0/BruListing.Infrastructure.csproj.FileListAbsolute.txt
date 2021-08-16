@@ -1,0 +1,14 @@
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\bin\Debug\net5.0\BruListing.Infrastructure.deps.json
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\bin\Debug\net5.0\BruListing.Infrastructure.runtimeconfig.json
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\bin\Debug\net5.0\BruListing.Infrastructure.runtimeconfig.dev.json
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\bin\Debug\net5.0\BruListing.Infrastructure.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\bin\Debug\net5.0\ref\BruListing.Infrastructure.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\bin\Debug\net5.0\BruListing.Infrastructure.pdb
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.AssemblyInfo.cs
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\ref\BruListing.Infrastructure.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.pdb
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.genruntimeconfig.cache
