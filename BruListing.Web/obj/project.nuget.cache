@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5i/Y//z0V/1ukRN7gPG2BNxbzPgs20rnQ6q9anuNJyffYeR/bcJtySQWeRcuWzV1SkBWmeXm8EBaVJ/jyFdeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Web\\BruListing.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syahnur Nizam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
