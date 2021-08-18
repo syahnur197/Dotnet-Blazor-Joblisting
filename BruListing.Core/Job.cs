@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace BruListing.Core
 {
-    class Job
+    public class Job
     {
         public int Id { get; set; }
 
@@ -24,6 +25,7 @@ namespace BruListing.Core
 
         public PrimaryTag PrimaryTag { get; set; }
 
+        [NotMapped]
         public ICollection<Tag> Tags { get; set; }
     }
 }

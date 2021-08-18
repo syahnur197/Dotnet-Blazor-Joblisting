@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BruListing.Core
 {
-    class Company
+    public class Company
     {
         public int Id { get; set; }
 

@@ -4,14 +4,14 @@
     "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\BruListing.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\BruListing.Infrastructure.csproj": {
+    "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Core\\BruListing.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\BruListing.Infrastructure.csproj",
-        "projectName": "BruListing.Infrastructure",
-        "projectPath": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\BruListing.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Core\\BruListing.Core.csproj",
+        "projectName": "BruListing.Core",
+        "projectPath": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Core\\BruListing.Core.csproj",
         "packagesPath": "C:\\Users\\Syahnur Nizam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Syahnur Nizam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,70 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\BruListing.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\BruListing.Infrastructure.csproj",
+        "projectName": "BruListing.Infrastructure",
+        "projectPath": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\BruListing.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Syahnur Nizam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Syahnur Nizam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Core\\BruListing.Core.csproj": {
+                "projectPath": "C:\\Users\\Syahnur Nizam\\source\\repos\\BruListing\\BruListing.Core\\BruListing.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -50,9 +114,9 @@
               "target": "Package",
               "version": "[5.0.9, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "MySql.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[5.0.5, )"
             }
           },
           "imports": [

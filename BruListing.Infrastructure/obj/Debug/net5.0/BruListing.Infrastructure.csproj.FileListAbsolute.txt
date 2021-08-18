@@ -12,3 +12,7 @@ C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Deb
 C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\ref\BruListing.Infrastructure.dll
 C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.pdb
 C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.genruntimeconfig.cache
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\bin\Debug\net5.0\BruListing.Core.dll
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\bin\Debug\net5.0\BruListing.Core.pdb
+C:\Users\Syahnur Nizam\source\repos\BruListing\BruListing.Infrastructure\obj\Debug\net5.0\BruListing.Infrastructure.csproj.CopyComplete

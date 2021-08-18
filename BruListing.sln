@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruListing.Web", "BruListing.Web\BruListing.Web.csproj", "{3B42DB0E-EC44-4E53-8140-BFA0806FED4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BruListing.Core", "BruListing.Core\BruListing.Core.csproj", "{7EBF04F6-3892-4BBF-811B-4DBE1B1093EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruListing.Core", "BruListing.Core\BruListing.Core.csproj", "{7EBF04F6-3892-4BBF-811B-4DBE1B1093EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BruListing.Infrastructure", "BruListing.Infrastructure\BruListing.Infrastructure.csproj", "{B64E222E-B7B8-4841-9C7D-6F3B2813705B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruListing.Infrastructure", "BruListing.Infrastructure\BruListing.Infrastructure.csproj", "{B64E222E-B7B8-4841-9C7D-6F3B2813705B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruListing.Web", "BruListing.Web\BruListing.Web.csproj", "{7FDBC4EC-5CD4-4481-A404-BD7CA0C1E003}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3B42DB0E-EC44-4E53-8140-BFA0806FED4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B42DB0E-EC44-4E53-8140-BFA0806FED4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B42DB0E-EC44-4E53-8140-BFA0806FED4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B42DB0E-EC44-4E53-8140-BFA0806FED4C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7EBF04F6-3892-4BBF-811B-4DBE1B1093EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7EBF04F6-3892-4BBF-811B-4DBE1B1093EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EBF04F6-3892-4BBF-811B-4DBE1B1093EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{B64E222E-B7B8-4841-9C7D-6F3B2813705B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B64E222E-B7B8-4841-9C7D-6F3B2813705B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B64E222E-B7B8-4841-9C7D-6F3B2813705B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDBC4EC-5CD4-4481-A404-BD7CA0C1E003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDBC4EC-5CD4-4481-A404-BD7CA0C1E003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDBC4EC-5CD4-4481-A404-BD7CA0C1E003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDBC4EC-5CD4-4481-A404-BD7CA0C1E003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

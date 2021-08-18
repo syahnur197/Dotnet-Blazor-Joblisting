@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BruListing.Core
 {
-    class Tag
+
+    public class Tag
     {
         public string Name { get; set; }
     }
