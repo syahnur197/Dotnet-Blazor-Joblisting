@@ -1,4 +1,5 @@
 using BruListing.Infrastructure.Data;
+using BruListing.Infrastructure.Repositories;
 using MySql.EntityFrameworkCore.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -11,6 +12,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using BruListing.Core.Interfaces.Repositories;
 
 namespace BruListing.Web
 {
@@ -31,6 +33,8 @@ namespace BruListing.Web
             string connectionString = Configuration.GetConnectionString("MySqlConnectionString");
 
             services.AddDbContext<AppDbContext>(options => options.UseMySQL(connectionString));
+
+            services.AddScoped<ICompanyRepository, CompanyRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

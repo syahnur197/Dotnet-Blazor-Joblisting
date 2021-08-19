@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BruListing.Core
+namespace BruListing.Core.Entities
 {
 
     public class Tag

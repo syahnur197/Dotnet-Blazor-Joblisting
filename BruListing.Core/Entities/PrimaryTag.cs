@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BruListing.Core
+namespace BruListing.Core.Entities
 {
-    public class Company
+    public class PrimaryTag
     {
         public int Id { get; set; }
 
         public string Name { get; set; }
-
-        public string Address { get; set; }
 
         public ICollection<Job> Jobs { get; set; }
     }
