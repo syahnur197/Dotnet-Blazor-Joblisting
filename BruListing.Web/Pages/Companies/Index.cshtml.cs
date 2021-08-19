@@ -13,9 +13,9 @@ namespace BruListing.Web.Pages.Companies
 {
     public class IndexModel : PageModel
     {
-        private readonly ICompanyRepository _repository;
+        private readonly IRepository<Company> _repository;
 
-        public IndexModel(ICompanyRepository repository)
+        public IndexModel(IRepository<Company> repository)
         {
             _repository = repository;
         }
